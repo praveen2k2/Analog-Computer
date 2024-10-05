@@ -1,0 +1,24 @@
+Circuit: * D:\Engineering\LTSPICE\Analog Project\power_supply.asc
+
+WARNING: Node N008 is floating.
+
+.OP point found by inspection.
+
+Date: Sat Oct  5 19:07:39 2024
+Total elapsed time: 0.124 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16278
+traniter = 16278
+tranpoints = 5561
+accept = 3908
+rejected = 1653
+matrix size = 15
+fillins = 7
+solver = Normal
+Avg thread counts: 1.2/1.5/1.5/1.2
+Matrix Compiler1: 1.21 KB object code size  0.6/0.3/[0.3]
+Matrix Compiler2: 1.27 KB object code size  0.3/0.3/[0.2]
+

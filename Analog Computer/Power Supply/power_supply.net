@@ -1,0 +1,19 @@
+* D:\Engineering\LTSPICE\Analog Project\power_supply.asc
+D1 N002 N003 1N4007
+D2 N005 N003 1N4007
+D3 0 N002 1N4007
+D4 0 N005 1N4007
+V1 N001 N007 SINE(0 325 50)
+C1 N004 0 470µ
+L1 N001 N008 235
+L2 N005 N002 1
+R1 N008 N007 1
+R2 N004 N006 500
+D5 N006 0 D
+R3 N004 N003 5
+.model D D
+.lib C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.dio
+.tran 1000ms
+K1 L1 L2 1
+.backanno
+.end
