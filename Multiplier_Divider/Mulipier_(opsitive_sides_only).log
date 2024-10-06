@@ -1,0 +1,123 @@
+LTspice 24.0.11 for Windows
+Circuit: * C:\Users\praveen\Desktop\sem2\Analog-Computer\Multiplier_Divider\Mulipier_(opsitive_sides_only).asc
+Start Time: Sun Oct  6 12:34:39 2024
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03523
+vernier = 0.0078125
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 1.02119
+vernier = 0.00260417
+Gmin = 1.01391
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01142
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00928
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00759
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 1.00638
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 94.6999%
+Source Step = 94.7295%
+Source Step = 94.7591%
+Source Step = 94.7887%
+Source Step = 94.8183%
+Source Step = 94.8479%
+vernier = 0.00146484
+Source Step = 94.8893%
+Source Step = 94.9337%
+Source Step = 94.9781%
+Source Step = 95.0225%
+Source Step = 95.0669%
+vernier = 0.00219727
+Source Step = 95.1268%
+Source Step = 95.1934%
+Source Step = 95.26%
+Source Step = 95.3266%
+Source Step = 95.3931%
+vernier = 0.0032959
+Source Step = 95.4797%
+Source Step = 95.5796%
+Source Step = 95.6795%
+Source Step = 95.7793%
+Source Step = 95.8792%
+vernier = 0.00494385
+Source Step = 96.004%
+Source Step = 96.1539%
+Source Step = 96.3037%
+Source Step = 96.4535%
+Source Step = 96.6033%
+vernier = 0.00741577
+Source Step = 96.7831%
+Source Step = 97.0078%
+Source Step = 97.2325%
+Source Step = 97.4572%
+Source Step = 97.682%
+vernier = 0.0111237
+Source Step = 97.9404%
+Source Step = 98.2775%
+Source Step = 98.6145%
+Source Step = 98.9516%
+Source Step = 99.2887%
+vernier = 0.0166855
+Source Step = 99.6595%
+vernier = 0.00417137
+Source Step = 99.6374%
+Source Step = 99.669%
+Source Step = 99.7006%
+Source Step = 99.7322%
+Source Step = 99.7638%
+Source Step = 99.7954%
+Source Step = 99.827%
+Source Step = 99.8586%
+Source Step = 99.8902%
+Source Step = 99.9218%
+Source Step = 99.9534%
+Source Step = 99.985%
+Source stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.0150974 to 0.0150974
+Heightened Def Con from 0.0170296 to 0.0170296
+Heightened Def Con from 0.0230296 to 0.0230296
+Heightened Def Con from 0.0290298 to 0.0290298
+Heightened Def Con from 0.0410295 to 0.0410296
+Heightened Def Con from 0.0470297 to 0.0470297
+Total elapsed time: 3.684 seconds.
+
