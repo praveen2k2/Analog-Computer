@@ -1,11 +1,14 @@
 LTspice 24.0.12 for Windows
 Circuit: * E:\Projects\Analog-Computer\Simulations\squaring_multiplier\Multiplier_squaring.asc
-Start Time: Tue Oct 15 10:45:30 2024
+Start Time: Fri Oct 18 13:28:15 2024
 solver = Normal
 Maximum thread count: 8
 tnom = 27
 temp = 27
 method = modified trap
+WARNING: Node VO is floating.
+
+WARNING: Less than two connections to node vo.  This node is used by c1.
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.163 seconds.
+Total elapsed time: 0.288 seconds.
 
