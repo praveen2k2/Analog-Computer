@@ -1,0 +1,22 @@
+Circuit: * D:\Engineering\PYTHON\Analog-Computer\Simulations\Adder Subtractor\adder.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Oct 16 17:00:18 2024
+Total elapsed time: 0.224 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 18777
+traniter = 18766
+tranpoints = 6301
+accept = 4349
+rejected = 1952
+matrix size = 41
+fillins = 40
+solver = Normal
+Avg thread counts: 1.1/1.4/1.4/1.1
+Matrix Compiler1: 3.73 KB object code size  3.6/1.6/[0.9]
+Matrix Compiler2: 3.95 KB object code size  1.2/1.5/[0.8]
+

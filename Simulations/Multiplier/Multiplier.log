@@ -1,0 +1,23 @@
+Circuit: * D:\Engineering\PYTHON\Analog-Computer\Simulations\Multiplier\Multiplier.asc
+
+WARNING: Less than two connections to node -v.  This node is used by v6.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Oct 16 17:25:56 2024
+Total elapsed time: 8.138 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 800074
+traniter = 800030
+tranpoints = 400016
+accept = 240018
+rejected = 159998
+matrix size = 30
+fillins = 32
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 5.50 KB object code size  1.9/0.9/[0.5]
+Matrix Compiler2: 3.55 KB object code size  0.6/0.8/[0.5]
+
