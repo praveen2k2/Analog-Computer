@@ -1,0 +1,21 @@
+* D:\sem 3\lab\Analog_project\power_supply.asc
+L1 V_primary N002 10µ
+L2 0 V_secondary 0.03µ
+L3 N001 0 0.03µ
+V1 V_primary N002 SINE(0 325.2691193 50) Rser=0.001
+D1 V_secondary +Vi 1N4007
+D2 -Vi V_secondary 1N4007
+D3 N001 +Vi 1N4007
+D4 -Vi N001 1N4007
+C1 +Vi 0 4700µ V=25
+C2 0 -Vi 4700µ V=25
+XU1 +Vi 0 +12V LM7812-1
+XU2 -Vi 0 -12V LM7912
+.model D D
+.lib C:\Users\VICTUS\AppData\Local\LTspice\lib\cmp\standard.dio
+K. L1 L2 L3 1
+.tran 0.1
+.lib lm7905_7912_7915.lib
+.lib regulators.lib
+.backanno
+.end
