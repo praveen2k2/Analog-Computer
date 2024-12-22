@@ -22,12 +22,6 @@ To get started with this project, you will need to have the following software i
 - **LTspice**: For running the simulation files.
 - **Altium Designer**: For viewing and editing the PCB design files.
 
-### Cloning the Repository
-Clone the repository to your local machine using the following command:
-```sh
-git clone https://github.com/NaveenSanjaya/Analog-Computer.git
-```
-
 ### Running Simulations
 1. Open LTspice.
 2. Navigate to the Simulations directory.
