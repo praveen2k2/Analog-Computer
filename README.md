@@ -57,7 +57,7 @@ Contains the design files for the printed circuit board (PCB) of the analog comp
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or inquiries, please contact naveensanjayab@gmail.com.
+For any questions or inquiries, please contact naveensanjayab@gmail.com, add emails.
 
 ## Acknowledgements
 - [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
