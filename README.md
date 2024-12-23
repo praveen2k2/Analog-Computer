@@ -27,7 +27,7 @@ To get started with this project, you will need to have the following software i
 
 ### Running Simulations
 
-Before running simulations, ensure the LM747 operational amplifier model file, located in the resources folder, is added to LTspice.
+Before running simulations, ensure the LM747 operational amplifier model file, located in the resources folder of this repository, is added to LTspice.
 
 1. Open LTspice.
 2. Navigate to the Simulations directory.
