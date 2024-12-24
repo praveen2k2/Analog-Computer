@@ -1,5 +1,7 @@
 # Analog-Computer
 
+![Image Description](Documents/src/img.png)
+
 ## Project Overview
 
 The Analog Computer project aims to design and implement a functional analog computer using various electronic components such as operational amplifiers, that can perform addition, subtraction, multiplication, integration, and differentiation. The project includes detailed simulations, PCB design files, and comprehensive documentation outlining the system design, component specifications, and testing procedures.
