@@ -61,6 +61,8 @@ Contains simulation files for power supply circuits which are essential for powe
 ### PCB Design
 
 Contains the design files for the printed circuit board (PCB) of the analog computer. This includes the schematic, layout, and bill of materials.
+### Circuit Demonstration
+[![Watch the video](https://img.youtube.com/vi/-Aa-wTWP3r8/hqdefault.jpg)](https://www.youtube.com/watch?v=-Aa-wTWP3r8)
 
 ## License
 
